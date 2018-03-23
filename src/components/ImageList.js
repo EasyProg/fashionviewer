@@ -4,8 +4,6 @@
 import React, {Component} from 'react';
 import ImageCard from './ImageCard';
 import '../styles/ImageList.css';
-import PropTypes from 'prop-types';
-import LoadingIndicator from 'react-loading-indicator';
 import ReactLoading from 'react-loading';
 
 export default class ImageList extends Component {
